@@ -27,7 +27,7 @@ The original data is from an experiment with a group of 30 volunteers wearing a 
  4. The original variables names, such as `tBodyAccMag-mean()`, were replaced with better descriptive names, such as `TimeBodyAccelerationMagnitudeMean`.
  
  5. An independent tidy data set was created with the mean of each activity and each subject. This new dataset was saved in the `tidy_data.txt` file.
- 
+  
 ## Variables 
   
 There are 180 observations of 68 variables, where the `Activity` variable is a factor, the `Subject_ID` is an integer and the other variables are numbers.
